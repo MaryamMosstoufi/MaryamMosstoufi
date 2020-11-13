@@ -3,12 +3,12 @@
     src="https://github-readme-stats.vercel.app/api?username=MaryamMosstoufi&theme=tokyonight&show_icons=true&include_all_commits=true&hide=stars" 
    />
 </a>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamMosstoufi&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamMosstoufi&exclude_repo=Game-Of-Life,&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
   />
 </a>
+
 <br/>
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&color=gray&logoColor='#f7df1e')
