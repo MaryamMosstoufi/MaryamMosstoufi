@@ -11,14 +11,14 @@
 
 <br/>
 
-![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&color=gray&logoColor='#f7df1e')
+![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=gray)
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=gray)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=gray)
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&color=gray)
 ![](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&color=gray)
 ![](https://img.shields.io/badge/SASS-informational?style=flat-square&logo=sass&color=gray)
-![](https://img.shields.io/badge/LESS-informational?style=flat-square&logo=less&color=gray)
+![](https://img.shields.io/badge/LESS-informational?style=flat-square&logoSvg=https://en.wikipedia.org/wiki/Less_(stylesheet_language)#/media/File:LESS_Logo.svg&color=gray)
 ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest&color=gray)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=sqlite&color=gray)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&color=gray)
