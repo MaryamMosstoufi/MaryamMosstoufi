@@ -11,7 +11,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&color=gray)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=gray)
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=gray)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=gray)
