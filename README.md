@@ -3,6 +3,7 @@
     src="https://github-readme-stats.vercel.app/api?username=MaryamMosstoufi&theme=tokyonight&show_icons=true&include_all_commits=true&hide=stars" 
    />
 </a>
+<br/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamMosstoufi&exclude_repo=Game-Of-Life,&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
@@ -10,6 +11,9 @@
 </a>
 
 <br/>
+<span style="margin-right: 5px"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></span>
+<span style="margin-right: 5px"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></span>
+
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&color=gray)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=gray)
