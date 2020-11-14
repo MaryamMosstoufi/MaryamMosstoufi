@@ -13,7 +13,8 @@
 <br/>
 <br/>
 
-<span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></span>
+
+<span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript"/></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></span>
@@ -32,6 +33,7 @@
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" /></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" /></span>
+<span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" /></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" /></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sketch.svg" /></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" /></span>
