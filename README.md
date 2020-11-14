@@ -5,7 +5,7 @@
 </a>
 <a href="https://github.com/maryammosstoufi">
   <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamMosstoufi&exclude_repo=Game-Of-Life,&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamMosstoufi&langs_count=4&layout=compact&exclude_repo=Game-Of-Life,&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
   />
 </a>
 <a href="https://wakatime.com/@MaryamMosstoufi">
