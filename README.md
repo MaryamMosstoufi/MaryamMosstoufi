@@ -1,22 +1,14 @@
-<a href="https://github.com/maryammosstoufi">
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=MaryamMosstoufi&theme=tokyonight&show_icons=true&include_all_commits=true&hide=stars" 
-   />
-</a>
-<a href="https://github.com/maryammosstoufi">
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamMosstoufi&langs_count=4&layout=compact&exclude_repo=Game-Of-Life,&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
-  />
-</a>
-<a href="https://wakatime.com/@MaryamMosstoufi">
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=MaryamMosstoufi&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
-  />
-</a>
 
-<br/>
-<br/>
+<img align="center" 
+  src="https://github-readme-stats.vercel.app/api?username=MaryamMosstoufi&theme=tokyonight&show_icons=true&include_all_commits=true&hide=stars" 
+/>
+<img align="center" 
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=MaryamMosstoufi&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
+/>
 
+<img align="center" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamMosstoufi&langs_count=4&layout=compact&exclude_repo=Game-Of-Life,&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
+/>
 
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript"/></span>
 <span style="margin-right: 12px;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></span>
