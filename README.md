@@ -1,12 +1,16 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/maryammosstoufi">
   <img align="center" 
     src="https://github-readme-stats.vercel.app/api?username=MaryamMosstoufi&theme=tokyonight&show_icons=true&include_all_commits=true&hide=stars" 
    />
 </a>
-<br/>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/maryammosstoufi">
   <img align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamMosstoufi&exclude_repo=Game-Of-Life,&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
+  />
+</a>
+<a href="https://wakatime.com/@MaryamMosstoufi">
+  <img align="center" 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=MaryamMosstoufi&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
   />
 </a>
 
