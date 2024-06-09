@@ -1,10 +1,10 @@
-
+<!--
 <a href="https://github.com/MaryamMosstoufi">
   <img align="center" 
     src="https://github-readme-stats.vercel.app/api?username=MaryamMosstoufi&theme=tokyonight&show_icons=true&line_height=26&include_all_commits=true&hide=stars&count_private=true" 
   />
  </a>
-
+-->
 <!--
 <img align="center" 
   src="https://github-readme-stats.vercel.app/api/wakatime?username=MaryamMosstoufi&theme=nightowl&show_icons=true&count_private=true&hide_title=true" 
